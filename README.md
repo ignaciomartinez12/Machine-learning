@@ -1,5 +1,7 @@
 # Machine-learning
 
-##Ignacio Martínez Martin
-##Pablo Valle Nieto
-##Pedro Rodríguez Viñuales
+## Ignacio Martínez Martin
+
+## Pablo Valle Nieto
+
+## Pedro Rodríguez Viñuales
